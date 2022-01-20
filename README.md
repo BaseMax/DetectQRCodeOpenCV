@@ -20,7 +20,7 @@ Detect QRCode and BarCode using OpenCV in Python
 | -------------- | -------------- |
 | ![](demo1.jpg) | ![](demo3.jpg) |
 
-Sorry, I don't have printed Qr-Codes to test program well.
+Sorry, I don't have printed Qr-Codes to test program well via webcam. (LIVE)
 
 ## Using
 
